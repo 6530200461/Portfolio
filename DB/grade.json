@@ -1,0 +1,130 @@
+{
+  "Subject": [
+    {
+      "id": "01418112",
+      "name": "Fundamental Programming Concepts",
+      "cradit": 3,
+      "grade": "C+",
+      "yr": 1,
+      "sem": 1,
+      "isShow": false
+    },
+    {
+      "id": "01999111",
+      "name": "Knowledge of the Land",
+      "cradit": 2,
+      "grade": "A",
+      "yr": 1,
+      "sem": 1,
+      "isShow": false
+    },
+    {
+      "id": "01418111",
+      "name": "Introduction to Computer Science",
+      "cradit": 2,
+      "grade": "C+",
+      "yr": 1,
+      "sem": 1,
+      "isShow": false
+    },
+    {
+      "id": "02999144",
+      "name": "Life Skill for Undergraduate Student",
+      "cradit": 1,
+      "grade": "A",
+      "yr": 1,
+      "sem": 1,
+      "isShow": false
+    },
+    {
+      "id": "01417111",
+      "name": "Calculus I",
+      "cradit": 3,
+      "grade": "D",
+      "yr": 1,
+      "sem": 1,
+      "isShow": false
+    },
+    {
+      "id": "01355101",
+      "name": "English for Everyday Life",
+      "cradit": 3,
+      "grade": "C",
+      "yr": 1,
+      "sem": 1,
+      "isShow": false
+    },
+    {
+      "id": "01999021",
+      "name": "Thai Language for Communication",
+      "cradit": 3,
+      "grade": "C+",
+      "yr": 1,
+      "sem": 1,
+      "isShow": false
+    },
+    {
+      "id": "01418141",
+      "name": "Intellectual Properties and Professional Ethics",
+      "cradit": 3,
+      "grade": "C+",
+      "yr": 1,
+      "sem": 1,
+      "isShow": false
+    },
+    {
+      "id": "03600012",
+      "name": "Green Technology",
+      "cradit": 3,
+      "grade": "C",
+      "yr": 1,
+      "sem": 2,
+      "isShow": false
+    },
+    {
+      "id": "01418113",
+      "name": "Computer Programming",
+      "cradit": 3,
+      "grade": "B",
+      "yr": 1,
+      "sem": 2,
+      "isShow": false
+    },
+    {
+      "id": "01418131",
+      "name": "Statistical Programming",
+      "cradit": 3,
+      "grade": "C+",
+      "yr": 1,
+      "sem": 2,
+      "isShow": false
+    },
+    {
+      "id": "01417322",
+      "name": "Basic Linear Algebra",
+      "cradit": 3,
+      "grade": "D",
+      "yr": 1,
+      "sem": 2,
+      "isShow": false
+    },
+    {
+      "id": "01418132",
+      "name": "Fundamentals of Computing",
+      "cradit": 3,
+      "grade": "C",
+      "yr": 1,
+      "sem": 2,
+      "isShow": false
+    },
+    {
+      "id": "01175114",
+      "name": "Table Tennis for Health",
+      "cradit": 1,
+      "grade": "A",
+      "yr": 1,
+      "sem": 2,
+      "isShow": false
+    }
+  ]
+}
